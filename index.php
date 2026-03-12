@@ -13,7 +13,7 @@ $result = mysqli_query($conn,"SELECT * FROM packages");
 </head>
 
 <body>  
-    <nav class="navbar">wleyshdblwlawlK
+    <nav class="navbar">
 
 <h2 class="logo">Capital Events</h2>
 
